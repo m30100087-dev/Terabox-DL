@@ -1,4 +1,5 @@
 name = "terabox-dl"
+main = "src/index.js"
 compatibility_date = "2023-01-01"
 
 
